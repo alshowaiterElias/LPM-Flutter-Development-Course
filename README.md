@@ -1,7 +1,3 @@
-Creating an attractive `README.md` file is essential for making your project accessible and understandable to others. Here's a template you can use to create a visually appealing and informative `README.md` file:
-
----
-
 # 📚 Flutter Development Course
 
 Welcome to **Flutter Development Course**!
